@@ -1,0 +1,12 @@
+{
+  "name": "mainroadswa4osm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "ckan": "^0.2.3",
+    "mkdirp": "^0.5.1",
+    "node-status": "^1.0.0",
+    "request": "^2.85.0"
+  }
+}
